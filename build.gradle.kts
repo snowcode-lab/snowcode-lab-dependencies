@@ -5,7 +5,7 @@ plugins {
 
 
 group = "com.snowcode.lab"
-version = "0.0.1-SNAPSHOT"
+version = "0.0.1"
 
 extra["springBootVersion"] = "3.2.3"
 extra["springCloudVersion"] = "2023.0.0"
